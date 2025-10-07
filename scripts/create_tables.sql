@@ -1,7 +1,6 @@
 -- =====================================================
 -- Gold Investment Platform
 -- PostgreSQL Database Schema
--- Humanized version — written like a dev would
 -- =====================================================
 
 -- enable UUID generation
@@ -146,4 +145,3 @@ BEGIN
    END IF;
 END$$;
 
--- ========================= END OF SCHEMA =========================
